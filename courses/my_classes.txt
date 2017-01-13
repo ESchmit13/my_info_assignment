@@ -3,3 +3,5 @@ STAT 489
 DSCI 325
 DSCI 395
 ECON 340
+
+This vim thing is hard to navagate
