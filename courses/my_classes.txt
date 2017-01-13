@@ -5,4 +5,3 @@ DSCI 395
 ECON 340
 
 This vim thing is hard to navagate
-Hannah is the best
